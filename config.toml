@@ -1,0 +1,32 @@
+languageCode = "en-us"
+title = "The Forge"
+baseURL = "http://forgeutah.tech/"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsUseClasses = true
+pygmentCodeFences = true
+
+
+[Params]
+	logo = "img/logo.png"
+	subtitle = "Helping Utah technologists share, learn, and build"
+	rss = true
+  comments = true
+  dateFormat = "January 2, 2006"
+
+
+[Author]
+  name = "Clint Berry"
+  github = "utahforge"
+  twitter = "utahforge"
+
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
