@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on The Forge</title>
+    <link>http://forgeutah.tech/about/</link>
+    <description>Recent content in Abouts on The Forge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://forgeutah.tech/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://forgeutah.tech/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://forgeutah.tech/about/about/</guid>
+      <description>About Welcome to The Forge, an organization dedicated to helping Utah technologists share, learn, and build.
+The Origin One of the best things about the Utah Go Meetup that I co-host is that people stick around and talk about the technology problems they are trying to solve and the cool tech they are using to solve those problems. There are so many amazing things I have learned that I wanted to come up with a place to share the information.</description>
+    </item>
+    
+  </channel>
+</rss>

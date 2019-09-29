@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>St Goerge Web Devs on The Forge</title>
+    <link>http://forgeutah.tech/st-goerge-web-devs/</link>
+    <description>Recent content in St Goerge Web Devs on The Forge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://forgeutah.tech/st-goerge-web-devs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>St. George Web Developers</title>
+      <link>http://forgeutah.tech/st-goerge-web-devs/geezy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://forgeutah.tech/st-goerge-web-devs/geezy/</guid>
+      <description>The meetup when you are on vacation.</description>
+    </item>
+    
+  </channel>
+</rss>

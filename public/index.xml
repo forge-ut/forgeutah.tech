@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Forge has officially launched! on The Forge</title>
+    <link>http://forgeutah.tech/</link>
+    <description>Recent content in The Forge has officially launched! on The Forge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://forgeutah.tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://forgeutah.tech/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://forgeutah.tech/about/about/</guid>
+      <description>About Welcome to The Forge, an organization dedicated to helping Utah technologists share, learn, and build.
+The Origin One of the best things about the Utah Go Meetup that I co-host is that people stick around and talk about the technology problems they are trying to solve and the cool tech they are using to solve those problems. There are so many amazing things I have learned that I wanted to come up with a place to share the information.</description>
+    </item>
+    
+    <item>
+      <title>Front End Craftsment</title>
+      <link>http://forgeutah.tech/front-end-craftsmen/fe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://forgeutah.tech/front-end-craftsmen/fe/</guid>
+      <description>We do the hard stuff in Javascript</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes and CNCF meetup</title>
+      <link>http://forgeutah.tech/utah-kubernetes-meetup/k8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://forgeutah.tech/utah-kubernetes-meetup/k8/</guid>
+      <description>For all things opensource and containerized.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Utah</title>
+      <link>http://forgeutah.tech/machine-learning-utah/ml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://forgeutah.tech/machine-learning-utah/ml/</guid>
+      <description>DATA DATA DATA</description>
+    </item>
+    
+    <item>
+      <title>St. George Web Developers</title>
+      <link>http://forgeutah.tech/st-goerge-web-devs/geezy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://forgeutah.tech/st-goerge-web-devs/geezy/</guid>
+      <description>The meetup when you are on vacation.</description>
+    </item>
+    
+    <item>
+      <title>Utah Go User Group</title>
+      <link>http://forgeutah.tech/utah-go-user-group/go/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://forgeutah.tech/utah-go-user-group/go/</guid>
+      <description>Do you like go?</description>
+    </item>
+    
+    <item>
+      <title>Women Who Go Utah</title>
+      <link>http://forgeutah.tech/women-who-go-utah/wwg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://forgeutah.tech/women-who-go-utah/wwg/</guid>
+      <description>This is the best meetup group.</description>
+    </item>
+    
+  </channel>
+</rss>

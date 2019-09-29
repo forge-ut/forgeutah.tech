@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women Who Go Utahs on The Forge</title>
+    <link>http://forgeutah.tech/women-who-go-utah/</link>
+    <description>Recent content in Women Who Go Utahs on The Forge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://forgeutah.tech/women-who-go-utah/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Women Who Go Utah</title>
+      <link>http://forgeutah.tech/women-who-go-utah/wwg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://forgeutah.tech/women-who-go-utah/wwg/</guid>
+      <description>This is the best meetup group.</description>
+    </item>
+    
+  </channel>
+</rss>
