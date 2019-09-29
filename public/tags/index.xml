@@ -6,9 +6,19 @@
     <description>Recent content in Tags on The Forge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jul 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://forgeutah.tech/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>news</title>
+      <link>http://forgeutah.tech/tags/news/</link>
+      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://forgeutah.tech/tags/news/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
