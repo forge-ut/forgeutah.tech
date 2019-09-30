@@ -35,3 +35,8 @@ pygmentCodeFences = true
     name = "Meetups"
     url = "/meetups/"
     weight = 3
+
+[[menu.main]]
+    name = "Sponsors"
+    url = "/sponsors/"
+    weight = 3
