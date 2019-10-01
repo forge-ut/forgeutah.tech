@@ -18,7 +18,7 @@ pygmentCodeFences = true
 [Author]
   name = "Clint Berry"
   github = "utahforge"
-  twitter = ""
+  twitter = "@forgeutah"
 
 
 [[menu.main]]
@@ -34,4 +34,4 @@ pygmentCodeFences = true
 [[menu.main]]
     name = "Meetups"
     url = "/meetups/"
-    weight = 3
+    weight = 3  
